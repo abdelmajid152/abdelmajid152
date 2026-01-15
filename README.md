@@ -12,7 +12,7 @@
 - 🧩 **Skills & Focus:** Clean Architecture, State Management (**GetX** &**Bloc/Cubit**&**Provider**), Performance Optimization  
 - 💬 **Passionate about:** creating seamless user experiences and well-structured codebases  
 - 📄 **[View my CV](https://drive.google.com/file/d/1-jyuAExn-6a9mEIwQJMP7X5xNSoApRgM/view?usp=drivesdk)**
-
+- 📄 **[View my portfolio](https://portfolio-khaki-two-38.vercel.app)**
 ---
 
 ### 🧠 Skills & Tools
