@@ -33,10 +33,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Shtgool Mobile Quiz Game** <br> [GitHub] • [App Store] • [Google Play] | Cross-platform quiz application with over 25,000 downloads. Features authentication and real-time database services. | Flutter, GetX, Firebase |
+| **Shtgool Mobile Quiz Game** <br>  • [App Store](https://apps.apple.com/us/app/shtgol-%D8%B4%D8%AA%D9%82%D9%88%D9%84/id6739498367) • [Google Play](https://play.google.com/store/apps/details?id=com.bothat.wesh_tgool) | Cross-platform quiz application with over 25,000 downloads. Features authentication and real-time database services. | Flutter, GetX, Firebase |
 | **Aqarak Real Estate App** <br> [GitHub] | A mobile application for buying and renting real estate properties, featuring advanced search and listing filters. | Flutter, GetX, Firebase |
 | **WhatsApp Status Saver** | A utility application designed to view and save WhatsApp statuses (images & videos) directly to the gallery. | Flutter, GetX, Local Storage |
-| **Diya Alqalb** <br> [GitHub] | Comprehensive application focused on intuitive UI and accessibility, with API updates for real-time data retrieval. | Flutter, GetX, REST API |
+| **Diya Alqalb** <br> [GitHub](https://github.com/abdelmajid152/diya_alqalb) | Comprehensive application focused on intuitive UI and accessibility, with API updates for real-time data retrieval. | Flutter, GetX, REST API |
 
 
 
