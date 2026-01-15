@@ -11,7 +11,7 @@
 - 🧠 **Experience:** 3+ years delivering **production-level applications**  
 - 🧩 **Skills & Focus:** Clean Architecture, State Management (**GetX** &**Bloc/Cubit**&**Provider**), Performance Optimization  
 - 💬 **Passionate about:** creating seamless user experiences and well-structured codebases  
-- 📄 **[View my CV](https://drive.google.com/file/d/1fEVMgc71CEfOB556K0PmQUCCmZMOwDg2/view?usp=drivesdk)**
+- 📄 **[View my CV](https://drive.google.com/file/d/1-jyuAExn-6a9mEIwQJMP7X5xNSoApRgM/view?usp=drivesdk)**
 
 ---
 
