@@ -33,10 +33,11 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Shtgool Mobile Quiz Game** <br> [GitHub] • [App Store] • [Google Play] | Cross-platform quiz application with over 25,000 downloads. [span_0](start_span)Features authentication and real-time database services[span_0](end_span). | Flutter, GetX, Firebase |
-| **Aqarak Real Estate App** <br> [GitHub] | [span_1](start_span)A mobile application for buying and renting real estate properties, featuring advanced search and listing filters[span_1](end_span). | Flutter, GetX, Firebase |
-| **WhatsApp Status Saver** | [span_2](start_span)A utility application designed to view and save WhatsApp statuses (images & videos) directly to the gallery[span_2](end_span). | Flutter, GetX, Local Storage |
-| **Diya Alqalb** <br> [GitHub] | [span_3](start_span)[span_4](start_span)Comprehensive application focused on intuitive UI and accessibility, with API updates for real-time data retrieval[span_3](end_span)[span_4](end_span). | Flutter, GetX, REST API |
+| **Shtgool Mobile Quiz Game** <br> [GitHub] • [App Store] • [Google Play] | Cross-platform quiz application with over 25,000 downloads. Features authentication and real-time database services. | Flutter, GetX, Firebase |
+| **Aqarak Real Estate App** <br> [GitHub] | A mobile application for buying and renting real estate properties, featuring advanced search and listing filters. | Flutter, GetX, Firebase |
+| **WhatsApp Status Saver** | A utility application designed to view and save WhatsApp statuses (images & videos) directly to the gallery. | Flutter, GetX, Local Storage |
+| **Diya Alqalb** <br> [GitHub] | Comprehensive application focused on intuitive UI and accessibility, with API updates for real-time data retrieval. | Flutter, GetX, REST API |
+
 
 
 ---
